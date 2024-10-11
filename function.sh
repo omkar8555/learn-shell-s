@@ -1,3 +1,5 @@
 sample() {
   hi
   }
+
+  sample
