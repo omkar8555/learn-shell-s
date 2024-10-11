@@ -1,1 +1,3 @@
-sample() { hi omkar }
+sample() {
+  hi omkar
+  }
