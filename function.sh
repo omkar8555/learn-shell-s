@@ -1,5 +1,1 @@
-sample() {
-  echo Hello World from Function
-}
-
-sample
+sample() { hi }
