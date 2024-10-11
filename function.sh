@@ -1,5 +1,3 @@
 sample() {
-  hi
-  }
-
-  sample
+  echo Hello World from Function
+}
